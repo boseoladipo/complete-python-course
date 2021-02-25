@@ -1,0 +1,7 @@
+Last 24 hours
+Worked on the EDA analysis for Car SKUs, measuring correlations between dependent variables and also dependent/independent variables
+Next 24 hours
+I will be working on preprocessing data for model
+Work on manheim scraper
+Blockers
+None
